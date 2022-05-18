@@ -1,0 +1,18 @@
+{
+  "name": "visla",
+  "version": "1.0.0",
+  "description": "This a Business project for visla managements",
+  "main": "index.js",
+  "scripts": {
+    "sass-start": "node-sass --watch assets/sass/main.scss assets/css/style.css --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "visla2k22"
+  },
+  "author": "gfxrobiul",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
